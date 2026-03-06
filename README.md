@@ -1,18 +1,14 @@
-# \# 🚦 Análise e Previsão de Tempo de Rotas — Projeto de Ciência de Dados em R
+Análise e Previsão de Tempo de Rotas — Projeto de Ciência de Dados em R
 
-# 
 
-# \## 📌 Visão Geral
+Visão Geral
+ 
 
-# 
+Este projeto aplica técnicas de \*\*Análise Exploratória de Dados (EDA)\*\* e \*\*Modelagem Preditiva\*\* para analisar o comportamento de cinco rotas de transporte ao longo do dia.
+ 
 
-# Este projeto aplica técnicas de \*\*Análise Exploratória de Dados (EDA)\*\* e \*\*Modelagem Preditiva\*\* para analisar o comportamento de cinco rotas de transporte ao longo do dia.
-
-# 
-
-# O objetivo principal é:
-
-# 
+O objetivo principal é:
+ 
 
 # \- Entender o padrão de variação dos tempos de viagem
 
@@ -32,7 +28,7 @@
 
 # 
 
-# \## 🎯 Problema de Negócio
+# \## Problema de Negócio
 
 # 
 
